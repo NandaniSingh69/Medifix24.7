@@ -24,7 +24,7 @@ import Footer from './components/Footer'
         <Route path = '/MyAppointment' element ={<MyAappointment />} />
         <Route path = '/About' element ={<About />} />
         <Route path = '/MyProfile' element ={<MyProfile />} />
-        <Route path = '/appointment/:docId' element ={<Appointment />} />  "nandani"
+        <Route path = '/appointment/:docId' element ={<Appointment />} />  
       </Routes>
       <Footer />
     </div>
